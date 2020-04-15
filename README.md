@@ -10,7 +10,7 @@ We built a RNN with a Long short-term memory (LSTM) architecture using scikit-le
 ### Building a feedforward deep neural network (DNN) to compare it with the LSTM model
 In order to examine whether a LSTM is actually better when working with time-series data, we also built a feedforward deep neural network using the same libraries. We trained and tested it.
 
-The results of our analysis can be seen in the notebook provided in this respository. 
+The results of our analysis can be seen in the notebook provided in this repository. 
 
 If you have any comments or recommendations for improvement, please feel free to reach out. 
 
