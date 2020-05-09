@@ -8,7 +8,7 @@ We examined the daily returns of the S&P500 with respect to stylized facts of as
 We built an RNN with a Long Short-Term Memory (LSTM) architecture using scikit-learn and keras (running on the TensorFlow backend). We trained the model, predicted the test data and evaluated the performance. 
 
 ### Building a feedforward deep neural network (DNN) to compare it with the LSTM model
-In order to examine whether the LSTM is actually a good choice when working with time-series data, we also built a feedforward deep neural network using the same libraries. We trained and tested it.
+In order to examine whether the LSTM is actually a good choice when working with time series data, we also built a feedforward deep neural network using the same libraries. We trained and tested it.
 
 The results of our analysis can be seen in the notebook provided in this repository. 
 
